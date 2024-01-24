@@ -64,7 +64,7 @@ const SignupForm = () => {
     <Form {...form}>
     <div className="sm:w-420 flex-center flex-col md:mt-40 mb-10"  >
 {/*        <img src="/public/assets/images/logo.svg" width={300}  alt="ClubHubb" />*/}
-<h1 className="font-bold text-2xl md:text-4xl"  style={{color:"#877EFF"}}  >Clubhubb</h1>
+ <h1 className="font-bold text-2xl md:text-4xl" style={{color: "#877EFF",fontSize: "3.2rem",marginTop: 60,}}>Clubhubb</h1>
         
     <h2 className="h3-bold md:h2-bold pt-5 sm:pt-12">
       Login account
